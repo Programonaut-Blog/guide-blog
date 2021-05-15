@@ -1,0 +1,22 @@
+{
+  "name": "~TODO~",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^3.34.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@mapbox/rehype-prism": "^0.6.0",
+    "front-matter": "^4.0.2",
+    "glob": "^7.1.7",
+    "rehype": "^11.0.0",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1"
+  }
+}
