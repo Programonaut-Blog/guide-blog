@@ -18,18 +18,12 @@
         font-weight: 400;
         font-size: 25px;
     }
-
-    div {
-        width: 20px;
-    }
 </style>
 
 <header>
     <h1>My Blog</h1>
     <nav>
         <a href="/">Home</a>
-        <div></div>
-        <a href="posts">Posts</a>
     </nav>
 </header>
 <slot></slot>
